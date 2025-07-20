@@ -7,7 +7,7 @@ This project automates monthly sales data analysis and generates detailed PDF re
 ## 💻 Colab Notebook
 
 Try it yourself!
-[Open the AI-Powered Data Analysis and Report Generation notebook](https://colab.research.google.com/drive/1ScrestmhiTgrC4kUF7prMmaekRcBIL7w?usp=sharing) 🚀
+[AI-Powered Data Analysis and Report Generation](https://colab.research.google.com/drive/1ScrestmhiTgrC4kUF7prMmaekRcBIL7w?usp=sharing) 🚀
 
 ---
 
