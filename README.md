@@ -39,7 +39,7 @@ Businesses deal with large amounts of sales data, but manual analysis is slow an
 
 ## 📁 Example Report Output
 
-The file named ai_sales_report_20250718_150046.pdf in the GitHub repository is a sample report. The report includes a summary of sales trends, key insights, and tabular data.
+The file named 'ai_sales_report_20250718_150046.pdf' in the GitHub repository is a sample report. The report includes a summary of sales trends, key insights, and tabular data.
 
 ## AI-Sales-Sample-Report-Screenshot
 
